@@ -1,0 +1,123 @@
+Backend
+
+FastAPI
+
+REST APIs
+
+PostgreSQL
+
+SQLAlchemy
+
+JWT
+
+RBAC
+
+async processing
+
+background jobs
+
+file upload
+
+API validation
+
+error handling
+
+GenAI
+
+RAG
+
+embeddings
+
+vector search
+
+hybrid search
+
+reranking
+
+structured output
+
+tool calling
+
+prompt engineering
+
+Agentic AI
+
+LangGraph
+
+planner
+
+multiple agents
+
+conditional routing
+
+parallel execution
+
+state
+
+checkpointing
+
+human-in-the-loop
+
+reflection/reviewer
+
+Distributed systems
+
+Redis
+
+Celery
+
+retries
+
+idempotency
+
+caching
+
+rate limiting
+
+Workflow
+
+Camunda
+
+BPMN
+
+service tasks
+
+user tasks
+
+timers
+
+workflow state
+
+long-running processes
+
+DevOps
+
+Docker
+
+CI/CD
+
+AWS
+
+S3
+
+RDS
+
+ECS
+
+CloudWatch
+
+secrets management
+
+AI production
+
+token/cost tracking
+
+latency monitoring
+
+evaluation
+
+hallucination detection
+
+tracing
+
+observability? 
